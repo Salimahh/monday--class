@@ -1,0 +1,12 @@
+*{
+    /* background-color: lime; */
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+nav p{
+    color: blue;
+    font-weight: bold;
+    font-size: 18px;
+}
